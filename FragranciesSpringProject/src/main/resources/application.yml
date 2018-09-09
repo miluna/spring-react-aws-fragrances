@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: fragrances-service
+  data:
+    mongodb:
+      uri: "mongodb://miluna:abc123@ds151282.mlab.com:51282/fragrances"
+
+
+server:
+  port: 8080
